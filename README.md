@@ -7,7 +7,7 @@ This Application is written in PHP, Mysql, Bootstraps, Css, Jquery-Ajax etc.
 
 # To Run the application Online.
 Just upload the application to your PHP hosting Site.
-Open Browser and call up application at https://example.com/sambanova_medium/
+Open Browser and call up application at eg.  https://example.com/sambanova_medium/
 
 
 # To Run the application Offline.
