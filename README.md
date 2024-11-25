@@ -13,7 +13,7 @@ Open Browser and call up application at eg.  https://example.com/sambanova_mediu
 # To Run the application Offline.
 1.)You will need to Download and  install **Xampp Server**. After installation, ensure that  Apache has been started and Running from Xampp Control Panel.
 
-2.) Download and Unzip the main application folder eg solarians.zip to xampp htdocs directories e.g  **C:\xampp\htdocs.**  After unzipping the 
+2.) Download and Unzip the main application folder eg **sambanova_medium.zip** to xampp htdocs directories e.g  **C:\xampp\htdocs.**  After unzipping the 
 directory will look like  **C:\xampp\htdocs\sambanova_medium**
 
 3.) Callup the application on the browser Eg. **http://localhost/sambanova_medium/index.php**
